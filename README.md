@@ -19,8 +19,8 @@ Ensure you have the following installed:
 
 1. **Clone the Repository:**
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/NavyaAgarwal02/backend-intern-assignment-binbag.git
+cd backend-intern-assignment-binbag
 ```
 
 2. **Install Dependencies:**
